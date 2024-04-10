@@ -1,1 +1,3 @@
-# ICS3U1_Lesson_Template
+# Lesson Title
+
+## Subtitle
